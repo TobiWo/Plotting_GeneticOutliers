@@ -1,7 +1,7 @@
 # Plotting multiple principal components (PC) from multidimensional scaling output and mark outlier clusters based on PC1 vs. PC2
 
 **The function is mainly designed as integration to the [GenABEL workflow](https://zenodo.org/record/19738#.V_3eyvmLSHs)**
-**More specifically, it points to the detection genetic outliers in your sample set (see quality control, section 5.2 of the tutorial).**
+**More specifically, it points to the detection of genetic outliers using identity by state (IBS) procedure (see quality control, section 5.2 of the tutorial).**
 
 ## Description
 This function can be used for every cmd- or principal component matrix.
