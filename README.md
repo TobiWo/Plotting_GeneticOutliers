@@ -20,6 +20,7 @@ Once stored on your hard drive use:
 ```
 source("path/to/where/the/function/is/stored")
 ```
+The function should be loaded to the global environment of your current R-session.
 
 ## Code comments
 Within the function I extensively describe what the specific code blocks do.
