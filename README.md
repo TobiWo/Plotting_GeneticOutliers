@@ -14,7 +14,7 @@ The input-arguments of the function are described within the code.
 Since this function is not part of a official package one should read the comments written in the first lines.
 
 ## Installing
-Just download the function itself which is stored in the folder `outlier_function`
+Just download/clone the repo as .zip while using the respective button at the main-page. After you unzipped the repo you can find the function within the folder `outlier_function`.
 
 Once stored on your hard drive use:
 ```
@@ -24,3 +24,4 @@ The function should be loaded to the global environment of your current R-sessio
 
 ## Code comments
 Within the function I extensively describe what the specific code blocks do.
+If you use R-Studio and you linked the .R-extension (during the installation) to the program, simply double-click the file and it will be opened in R-Studio. Then you can read the source-code and the comments.
